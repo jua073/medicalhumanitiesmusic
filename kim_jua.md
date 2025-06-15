@@ -3,6 +3,7 @@ Year: 1989
 Genre: Film
 Creator: Jim Sheridan
 Disability: Cerebral Palsy
+ICD: 8D20
 Music: Theme from My Left Foot
 Composer: Elmer Bernstein
 Type: Classical
